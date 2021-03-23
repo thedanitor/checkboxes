@@ -6,7 +6,6 @@ This project is from the Day 32 code along video from Udemy's 50 projects in 50 
 
 ### Overall Impression
 
+Cool to see how simple it is to make those sliders that I see everywhere. Also a good reinforcement of how to use checkbox logic for interactivity.
 
-
-### Things Learned
 
