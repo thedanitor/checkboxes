@@ -1,4 +1,4 @@
-# Good, Cheap, and Fast Checkboxes
+# Good, Cheap, Fast Checkboxes
 
 https://thedanitor.github.io/checkboxes/
 
